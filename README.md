@@ -22,7 +22,7 @@ All the heavy lifting is done by scrcpy itself. This is just a menu-driven wrapp
 ## Install
 
 ```bash
-git clone https://github.com/<you>/dex-manager.git
+git clone https://github.com/fqazzazee/dex-manager-linux.git
 cd dex-manager
 chmod +x dex-manager.sh
 ./dex-manager.sh
