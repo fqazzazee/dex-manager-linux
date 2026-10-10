@@ -77,6 +77,10 @@ Read the full write-up at [blog.safeqbit.com](https://blog.safeqbit.com/samsung-
 
 scrcpy by [Genymobile](https://github.com/Genymobile/scrcpy) does all the real work. If you find this useful, star their repo too.
 
+## Support
+
+If it saved you some time getting DeX running on Linux, you can [buy me a coffee ☕](https://buymeacoffee.com/fqazzazee).
+
 ## License
 
 MIT
